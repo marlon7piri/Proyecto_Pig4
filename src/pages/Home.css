@@ -30,13 +30,13 @@
    
     grid-area:area3;
     border:1px solid rgb(8, 7, 7);
-    
-   
+    overflow-y: scroll;
 }
 .productos{
     overflow-y: scroll;
-    min-height: 100%;
-    height:auto;
+   
+    height:100%;
+    padding: 10px;
  
 }
 
